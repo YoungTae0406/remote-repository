@@ -1,3 +1,4 @@
 what is git?
 hmmmm
 git fetch
+git pull
